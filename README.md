@@ -148,7 +148,7 @@ Your Flask API will now be running at:
 
 ## 📜 Folder Structure
 ```
-📂 agro-predict-backend
+📂 AgroPredict
 │── server.py               # Flask server & API routes
 │── util.py                 # Utility functions for ML models
 │── requirements.txt        # Required dependencies
